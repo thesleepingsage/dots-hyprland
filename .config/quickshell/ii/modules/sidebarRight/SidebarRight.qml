@@ -175,7 +175,7 @@ Scope {
                             BluetoothToggle {}
                             NightLight {}
                             GameMode {}
-                            PStateToggle {}
+                            PowerProfileToggle {}
                             IdleInhibitor {}
                             EasyEffectsToggle {}
                             CloudflareWarp {}
