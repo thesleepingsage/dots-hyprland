@@ -17,7 +17,7 @@ QuickToggleButton {
             case "power-saver": return "battery_saver"
             case "performance": return "speed"
             case "balanced":
-            default: return "eco"
+            default: return "balance"
         }
     }
     
